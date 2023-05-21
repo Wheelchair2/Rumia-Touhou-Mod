@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Kurai Sekai",
+		"leaderName": "Rumia",
+		"adjective": ["Youkai"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "This mod is still partly finished.",
+		"startIntroPart2": "I wish you enjoy it!",
+		"declaringWar": "So-na-no-ka, ne?",
+		"attacked": "Sonanoka.",
+		"defeated": "Sonanoka...",
+		"introduction": "Sonanoka!",
+		"neutralHello": "Sonanoka~",
+		"hateHello": "Sonanoka.",
+		"tradeRequest": "Sonanoka?",
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
+		"uniqueName": "Man-Eating Youkai Race",
+		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "[-50]% Production when constructing [{Military} {Land}] units [in all cities]", "Cannot build [Settler] units"],
+		"cities": ["Hōreisou"]
+	},
+]
