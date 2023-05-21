@@ -68,19 +68,19 @@
 	{
 		"name": "Demarcation",
 		"prerequisites": "Spell Cards 1",
-		"uniques": ["[+10]% Strength", [+20]% Strength <after [10] turns", "[+30]% Strength <after [10] turns>"]
+		"uniques": ["[+10]% Strength", "[+20]% Strength <after [10] turns", "[+30]% Strength <after [10] turns>"]
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
 		"name": "Spell Cards II",
-		"prerequisites": "Moonlight Ray, "Nighy Bird," "Demarcation",
+		"prerequisites": "Moonlight Ray, "Night Bird", "Demarcation",
 		"uniques": ["[+5] XP gained from combat"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
 		"name": "Last Word",
 		"prerequisites": "Spell Cards II",
-		"uniques": ["[+100]% Strength],
+		"uniques": ["[+100]% Strength]"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 ]
