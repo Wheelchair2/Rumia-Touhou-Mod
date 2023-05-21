@@ -73,7 +73,7 @@
 	},
 	{
 		"name": "Spell Cards II",
-		"prerequisites": "Moonlight Ray, "Night Bird", "Demarcation",
+		"prerequisites": "Moonlight Ray", "Night Bird", "Demarcation",
 		"uniques": ["[+5] XP gained from combat"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
