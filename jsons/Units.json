@@ -1,0 +1,44 @@
+[
+	{
+		"name": "Rumia",
+		"uniqueTo": "Kurai Sekai",
+		"replaces": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 9,
+		"cost": 75,
+		"Uniques": ["Can transform to [Orb of Darkness", "[-1] Sight"], "Unbuildable"],
+		"promotions": ["Darkness Manipulation"]
+	},
+	{
+		"name": "Orb of Darkness",
+		"uniqueTo": "Kurai Sekai",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 15,
+		"cost": 75,
+		"uniques": ["Can transform to [Rumia]", "Unit will heal every turn, even if it performs an action", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
+		"promotions": ["Darkness Manipulation"],
+	},
+	{
+		"name": "Controlled Darkness",
+		"uniqueTo": "Kurai Sekai",
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 25,
+		"cost": 75,
+		"uniques": ["Can transform to [Danmaku Rumia]", "Unit will heal every turn, even if it performs an action", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
+		"promotions": ["Darkness Manipulation"],
+	},
+	{
+		"name": "Danmaku Rumia",
+		"uniqueTo": "Kurai Sekai",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 18,
+		"cost": 75,
+		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack"],
+		"promotions": ["Darkness Manipulation", "Danmaku", "Unbuildable"]
+	},
+]
