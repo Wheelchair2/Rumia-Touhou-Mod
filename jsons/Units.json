@@ -38,7 +38,7 @@
 		"strength": 20,
 		"rangedStrength": 18,
 		"cost": 75,
-		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack"],
-		"promotions": ["Darkness Manipulation", "Danmaku", "Unbuildable"]
+		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable"],
+		"promotions": ["Darkness Manipulation", "Danmaku"]
 	},
 ]
