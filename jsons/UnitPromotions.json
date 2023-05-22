@@ -16,7 +16,7 @@
 	{
 		"name": "Savoring",
 		"prerequisites": ["Darkness Manipulation"],
-		"uniques": ["Heals [20] damage if it kills a unit"],
+		"uniques": ["Heals [80] damage if it kills a unit"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
