@@ -61,13 +61,13 @@
 	},
 	{
 		"name": "Night Bird",
-		"prerequisites": ["Spell Cards 1"],
+		"prerequisites": ["Spell Cards I"],
 		"uniques": ["[+1] Sight", "[+1] Movement <in [Forest] tiles>", "[+1] Movement <in [Jungle] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
 		"name": "Demarcation",
-		"prerequisites": ["Spell Cards 1"],
+		"prerequisites": ["Spell Cards I"],
 		"uniques": ["[+10]% Strength", "[+20]% Strength <after [10] turns", "[+30]% Strength <after [20] turns>"]
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
