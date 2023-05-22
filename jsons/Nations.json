@@ -17,7 +17,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Man-Eating Youkai Race",
-		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "[-50]% Production when constructing [{Military} {Land}] units [in all cities]", "Cannot build [Settler] units"],
+		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "[-20]% Production when constructing [{Military} {Land}] units [in all cities]"],
 		"cities": ["Hōreisou"]
 	},
 ]
