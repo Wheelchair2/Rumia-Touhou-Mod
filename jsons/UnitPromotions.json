@@ -10,19 +10,19 @@
 	{
 		"name": "Levitation",
 		"prerequisites": ["Darkness Manipulation"],
-		"uniques": ["Ignore terrain cost"],
+		"uniques": ["Ignores terrain cost"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
 		"name": "Savoring",
 		"prerequisites": ["Darkness Manipulation"],
-		"uniques": ["Heals [15] damage if it kills a unit"],
+		"uniques": ["Heals [20] damage if it kills a unit"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
 		"name": "Maturing",
 		"prerequisites": ["Levitation", "Savoring"],
-		"uniques": ["[+50]% Strength", "[-1] Sight", "[+20]% XP gained from combat"],
+		"uniques": ["[+100]% Strength", "[-1] Sight", "[+20]% XP gained from combat"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
@@ -34,7 +34,7 @@
 	{
 		"name": "Shadow Trick",
 		"prerequisites": ["Maturing"],
-		"uniques": ["Ignore Zone of Control"],
+		"uniques": ["Ignores Zone of Control"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"name": "Last Word",
 		"prerequisites": ["Spell Cards II"],
-		"uniques": ["[+100]% Strength]"],
+		"uniques": ["[+200]% Strength"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 ]
