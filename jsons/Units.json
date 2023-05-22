@@ -6,7 +6,7 @@
 		"unitType": "Scout",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["Founds a new city <once>"],
+		"uniques": ["Founds a new city <once>", "Unbuildable"],
 	},
 	{
 		"name": "Rumia",
