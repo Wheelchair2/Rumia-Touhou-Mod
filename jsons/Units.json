@@ -1,5 +1,18 @@
 [
 	{
+		"name": "Helpful Fairy",
+		"uniqueTo": "Kurai Sekai",
+		"replaces": "Settler",
+		"unitType": "Scout",
+		"movement": 2,
+		"strength": 5,
+		"cost": 106,
+		"uniques": ["Founds a new city <once>", "Unbuildable"],
+		"promotions": ["Ignore terrain cost"],
+		"hurryCostModifier": 20,
+		"attackSound": "nonmetalhit"
+	},
+	{
 		"name": "Rumia",
 		"uniqueTo": "Kurai Sekai",
 		"replaces": "Warrior",
