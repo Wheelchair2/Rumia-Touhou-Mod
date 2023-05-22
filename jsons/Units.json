@@ -5,9 +5,8 @@
 		"replaces": "Settler",
 		"unitType": "Scout",
 		"movement": 2,
-		"strength": 5,
 		"cost": 106,
-		"uniques": ["Founds a new city <once>", "Unbuildable"],
+		"uniques": ["Founds a new city <once>", "[3] Sight"],
 		"promotions": ["Ignore terrain cost"],
 		"hurryCostModifier": 20,
 		"attackSound": "nonmetalhit"
