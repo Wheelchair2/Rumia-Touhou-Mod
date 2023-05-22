@@ -17,7 +17,7 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 75,
-		"uniques": ["Can transform to [Rumia]", "Unit will heal every turn, even if it performs an action", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
+		"uniques": ["Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -27,7 +27,7 @@
 		"movement": 3,
 		"strength": 25,
 		"cost": 75,
-		"uniques": ["Can transform to [Danmaku Rumia]", "Unit will heal every turn, even if it performs an action", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
+		"uniques": ["Can transform to [Danmaku Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
