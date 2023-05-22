@@ -38,7 +38,7 @@
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
-		"name": "Remove Ribbon",
+		"name": "Take Off Ribbon",
 		"prerequisites": ["Careful", "Shadow Trick"],
 		"uniques": ["[-50]% Strength <when defending>", "[+100]% Strength <when attacking>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
