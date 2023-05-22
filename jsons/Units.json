@@ -7,7 +7,7 @@
 		"movement": 2,
 		"strength": 9,
 		"cost": 75,
-		"Uniques": ["Can transform to [Orb of Darkness", "[-1] Sight", "Unbuildable"],
+		"uniques": ["Can transform to [Orb of Darkness", "[-1] Sight", "Unbuildable"],
 		"promotions": ["Darkness Manipulation"]
 	},
 	{
