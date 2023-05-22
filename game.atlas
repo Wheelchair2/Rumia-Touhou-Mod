@@ -59,7 +59,7 @@ UnitPromotionIcons/Shadow Trick
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Take off Ribbon
+UnitPromotionIcons/Remove Ribbon
   rotate: false
   xy: 800, 0
   size: 100, 100
