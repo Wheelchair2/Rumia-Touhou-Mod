@@ -4,6 +4,10 @@
 		"uniques": ["Heals [20] damage if it kills a unit", "Can only heal by pillaging"]
 	},
 	{
+		"name": "Eased-Mind",
+		"uniques": ["All healing effects doubled"]
+	},
+	{
 		"name": "Darkness Manipulation",
 		"uniques": ["Access to special promotions"]
 	},
