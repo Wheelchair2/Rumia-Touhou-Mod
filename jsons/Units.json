@@ -3,10 +3,10 @@
 		"name": "Helpful Fairy",
 		"uniqueTo": "Kurai Sekai",
 		"replaces": "Settler",
-		"unitType": "Scout",
+		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["Founds a new city <once>", "Unbuildable"],
+		"uniques": ["Founds a new city <once>", "Can build [Land] improvements on tiles", "Ignores terrain cost", "Unbuildable"],
 	},
 	{
 		"name": "Rumia",
@@ -14,10 +14,11 @@
 		"replaces": "Warrior",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 9,
+		"strength": 11,
 		"cost": 75,
 		"uniques": ["Can transform to [Orb of Darkness]", "[-1] Sight", "Unbuildable"],
 		"promotions": ["Darkness Manipulation"]
+		"upgradesTo": "Danmaku Rumia",
 	},
 	{
 		"name": "Orb of Darkness",
@@ -47,6 +48,7 @@
 		"strength": 20,
 		"rangedStrength": 18,
 		"cost": 75,
+		"requiredTech": "Drama and Poetry",
 		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable"],
 		"promotions": ["Darkness Manipulation", "Danmaku"]
 	},
