@@ -18,7 +18,6 @@
 		"cost": 20,
 		"hurryCostModifier": 40,
 		"maintenance": 1,
-		"requiredTech": "Pottery",
 		"uniques": ["Adopt [Honor]"]
 	},
 ]
