@@ -18,5 +18,6 @@
 		"cost": 20,
 		"hurryCostModifier": 40,
 		"maintenance": 1
+		"unique": ["Free [Rumia] appears"]
 	}
 ]
