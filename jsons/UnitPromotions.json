@@ -32,7 +32,7 @@
 	{
 		"name": "Careful",
 		"prerequisites": ["Maturing"],
-		"uniques": ["May withdraw before melee ([50]%)"],
+		"uniques": ["May withdraw before melee ([50]%)", "Can move after attacking"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
@@ -42,9 +42,9 @@
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
-		"name": "Take Off Ribbon",
+		"name": "Friendly Demeanor",
 		"prerequisites": ["Careful", "Shadow Trick"],
-		"uniques": ["[-50]% Strength <when defending>", "[+100]% Strength <when attacking>"],
+		"uniques": ["May enter foreign tiles without open borders"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
@@ -54,7 +54,7 @@
 	{
 		"name": "Spell Cards I",
 		"prerequisites": ["Danmaku"],
-		"uniques": ["[5] XP gained from combat"],
+		"uniques": ["[2] XP gained from combat"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
@@ -66,7 +66,7 @@
 	{
 		"name": "Night Bird",
 		"prerequisites": ["Spell Cards I"],
-		"uniques": ["[+1] Sight", "[+1] Movement <in [Forest] tiles>", "[+1] Movement <in [Jungle] tiles>"],
+		"uniques": ["[+1] Sight", "[+2] Movement <in [Forest] tiles>", "[+2] Movement <in [Jungle] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
@@ -78,13 +78,13 @@
 	{
 		"name": "Spell Cards II",
 		"prerequisites": ["Moonlight Ray", "Night Bird", "Demarcation"],
-		"uniques": ["[5] XP gained from combat"],
+		"uniques": ["[3] XP gained from combat"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
 		"name": "Last Word",
 		"prerequisites": ["Spell Cards II"],
-		"uniques": ["[+200]% Strength"],
+		"uniques": ["[+100]% Strength"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 ]
