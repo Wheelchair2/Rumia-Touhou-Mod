@@ -44,7 +44,7 @@
 		"uniqueTo": "Kurai Sekai",
 		"unitType": "Dark Youkai",
 		"movement": 2,
-		"strength": 16,
+		"strength": 14,
 		"rangedStrength": 7,
 		"cost": 75,
 		"requiredTech": "Drama and Poetry",
