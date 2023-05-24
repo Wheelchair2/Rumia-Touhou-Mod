@@ -90,7 +90,7 @@ UnitIcons/Controlled Darkness
   index: -1
 
 game2.png
-size: 1200,100
+size: 1100,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
