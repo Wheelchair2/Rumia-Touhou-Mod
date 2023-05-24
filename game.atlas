@@ -90,7 +90,7 @@ UnitIcons/Controlled Darkness
   index: -1
 
 game2.png
-size: 1100,100
+size: 1200,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -129,7 +129,7 @@ BuildingIcons/Monument for Rumia
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Spell Card I
+UnitPromotionIcons/Spell Cards I
   rotate: false
   xy: 500, 0
   size: 100, 100
@@ -167,6 +167,13 @@ UnitPromotionIcons/Spell Cards II
 UnitPromotionIcons/Last Word
   rotate: false
   xy: 900, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Danmaku
+  rotate: false
+  xy: 1000, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
