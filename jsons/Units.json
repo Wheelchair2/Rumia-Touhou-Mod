@@ -11,7 +11,7 @@
 	{
 		"name": "Rumia",
 		"uniqueTo": "Kurai Sekai",
-		"unitType": "Sword",
+		"unitType": "Dark Youkai",
 		"movement": 2,
 		"strength": 11,
 		"cost": 75,
@@ -22,7 +22,7 @@
 	{
 		"name": "Orb of Darkness",
 		"uniqueTo": "Kurai Sekai",
-		"unitType": "Sword",
+		"unitType": "Dark Youkai",
 		"movement": 3,
 		"strength": 15,
 		"cost": 75,
@@ -32,7 +32,7 @@
 	{
 		"name": "Controlled Darkness",
 		"uniqueTo": "Kurai Sekai",
-		"unitType": "Sword",
+		"unitType": "Dark Youkai",
 		"movement": 3,
 		"strength": 20,
 		"cost": 75,
@@ -42,7 +42,7 @@
 	{
 		"name": "Danmaku Rumia",
 		"uniqueTo": "Kurai Sekai",
-		"unitType": "Gunpowder",
+		"unitType": "Dark Youkai",
 		"movement": 2,
 		"strength": 16,
 		"rangedStrength": 7,
