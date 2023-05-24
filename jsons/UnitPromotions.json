@@ -14,7 +14,7 @@
 	{
 		"name": "Levitation",
 		"prerequisites": ["Darkness Manipulation"],
-		"uniques": ["Ignores terrain cost"],
+		"uniques": ["Ignores terrain cost", "No movement cost to pillage"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Fighter","Bomber","Helicopter"],
 	},
 	{
