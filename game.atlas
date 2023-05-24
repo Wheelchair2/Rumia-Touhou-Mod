@@ -90,7 +90,7 @@ UnitIcons/Controlled Darkness
   index: -1
 
 game2.png
-size: 300,100
+size: 1200,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -117,7 +117,56 @@ NationIcons/Kurai Sekai
   index: -1
 UnitPromotionIcons/Eased-Mind
   rotate: false
-  xy: 200, 0
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Monument for Rumia
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Spell Card I
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Moonlight Ray
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Night Bird
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Demarcation
+  rotate: false
+  xy: 800, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Spell Cards II
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Last Word
+  rotate: false
+  xy: 900, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
