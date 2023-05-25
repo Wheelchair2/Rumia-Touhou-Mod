@@ -15,7 +15,7 @@
 		"movement": 2,
 		"strength": 11,
 		"cost": 120,
-		"uniques": ["Can transform to [Orb of Darkness]", "[-1] Sight", "Unbuildable", "Provides a [Library] in your first [1] cities for free <upon being defeated>"],
+		"uniques": ["Can transform to [Orb of Darkness]", "[-1] Sight", "Unbuildable", "Free [Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Survival"]
 		"upgradesTo": "Danmaku Rumia",
 	},
