@@ -4,6 +4,10 @@
 		"uniques": ["Heals [20] damage if it kills a unit", "Heal this unit by [20] HP <upon being promoted>", "Can only heal by pillaging"]
 	},
 	{
+		"name": "Survival",
+		"uniques": ["Heal this unit by [100] HP <when below [15] HP> <once>"]
+	},
+	{
 		"name": "Eased-Mind",
 		"uniques": ["All healing effects doubled"]
 	},
