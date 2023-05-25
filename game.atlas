@@ -180,13 +180,27 @@ UnitPromotionIcons/Danmaku
   index: -1
 
 game3.png
-size: 100,100
+size: 300,100
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 UnitPromotionIcons/Precise Strike
   rotate: false
   xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tiny Rumia
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dark Ball
+  rotate: false
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
