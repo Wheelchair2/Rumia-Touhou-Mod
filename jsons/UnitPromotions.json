@@ -12,6 +12,10 @@
 		"uniques": ["All healing effects doubled"]
 	},
 	{
+		"name": "Determination",
+		"uniques": ["[+150]% Strength vs [cities] <for [15] turns>", "[+20]% Strength] <for [15] turns>"]
+	},
+	{
 		"name": "Darkness Manipulation",
 		"uniques": ["All healing effects doubled", "Access to special promotions"]
 	},
