@@ -45,7 +45,7 @@
 		"uniqueTo": "Kurai Sekai",
 		"unitType": "Dark Youkai",
 		"movement": 3,
-		"strength": 15,
+		"strength": 12,
 		"cost": 120,
 		"uniques": ["Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
