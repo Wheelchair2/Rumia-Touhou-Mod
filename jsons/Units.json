@@ -15,7 +15,7 @@
 		"movement": 2,
 		"strength": 11,
 		"cost": 120,
-		"uniques": ["Can transform to [Orb of Darkness]", "[-1] Sight", "Excess Food converted to Production when under construction", "Limited to [1] per Civilization", "Unbuildable <upon gaining a [Dark Youkai] unit>"],
+		"uniques": ["Can transform to [Orb of Darkness]", "[-1] Sight", "Excess Food converted to Production when under construction", "Unbuildable <upon gaining a [Dark Youkai] unit>"],
 		"promotions": ["Darkness Manipulation"]
 		"upgradesTo": "Danmaku Rumia",
 	},
