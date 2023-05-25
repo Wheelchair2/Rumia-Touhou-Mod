@@ -47,7 +47,7 @@
 		"movement": 3,
 		"strength": 11,
 		"cost": 120,
-		"uniques": ["Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Tiny Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
