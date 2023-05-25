@@ -15,7 +15,7 @@
 		"movement": 2,
 		"strength": 11,
 		"cost": 120,
-		"uniques": ["Can transform to [Orb of Darkness]", "[-1] Sight", "Unbuildable"],
+		"uniques": ["Can transform to [Orb of Darkness]", "[-1] Sight", "Unbuildable", "[Land] units gain the [Determination] promotion <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Survival"]
 		"upgradesTo": "Danmaku Rumia",
 	},
@@ -26,7 +26,7 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 120,
-		"uniques": ["Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
+		"uniques": ["Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "[Land] units gain the [Determination] promotion <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -36,7 +36,7 @@
 		"movement": 3,
 		"strength": 20,
 		"cost": 250,
-		"uniques": ["Can transform to [Danmaku Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable"],
+		"uniques": ["Can transform to [Danmaku Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "[Land] units gain the [Determination] promotion <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -48,7 +48,7 @@
 		"rangedStrength": 7,
 		"cost": 250,
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable"],
+		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable", "[Land] units gain the [Determination] promotion <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Danmaku"]
 	},
 ]
