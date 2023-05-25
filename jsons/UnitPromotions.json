@@ -1,7 +1,7 @@
 [	
 	{
 		"name": "Man-Eating Youkai",
-		"uniques": ["Heals [20] damage if it kills a unit", "Heal this unit by [10] HP <upon being promoted>", "Can only heal by pillaging"]
+		"uniques": ["Heals [20] damage if it kills a unit", "Heal this unit by [20] HP <upon being promoted>", "Can only heal by pillaging"]
 	},
 	{
 		"name": "Eased-Mind",
@@ -26,18 +26,24 @@
 	{
 		"name": "Maturing",
 		"prerequisites": ["Levitation", "Savoring"],
-		"uniques": ["[+40]% Strength", "[-1] Sight", "[+10]% XP gained from combat"],
+		"uniques": ["[+20]% Strength", "[-1] Sight", "[+10]% XP gained from combat"],
+		"unitTypes": ["Dark Youkai"],
+	},
+	{
+		"name": "Precise Strike",
+		"prerequisites": ["Maturing"],
+		"uniques": ["[+20]% Strength"]
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
 		"name": "Careful",
-		"prerequisites": ["Maturing"],
+		"prerequisites": ["Precise Strike"],
 		"uniques": ["May withdraw before melee ([50]%)", "Can move after attacking"],
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
 		"name": "Shadow Trick",
-		"prerequisites": ["Maturing"],
+		"prerequisites": ["Precise Strike"],
 		"uniques": ["Ignores Zone of Control"],
 		"unitTypes": ["Dark Youkai"],
 	},
