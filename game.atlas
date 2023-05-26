@@ -207,56 +207,56 @@ UnitIcons/Dark Ball
   index: -1
 
 game4.png
-size: 112,16
+size: 224,16
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Units/Rumia
   rotate: false
   xy: 0, 0
-  size: 16, 16
-  orig: 16, 16
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tiny Rumia
   rotate: false
   xy: 0, 0
-  size: 16, 16
-  orig: 16, 16
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Danmaku Rumia
   rotate: false
   xy: 0, 0
-  size: 16, 16
-  orig: 16, 16
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Orb of Darkness
   rotate: false
-  xy: 16, 0
-  size: 16, 16
-  orig: 16, 16
+  xy: 32, 0
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Dark Ball
   rotate: false
-  xy: 16, 0
-  size: 16, 16
-  orig: 16, 16
+  xy: 32, 0
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Controlled Darkness
   rotate: false
-  xy: 32, 0
-  size: 16, 16
-  orig: 16, 16
+  xy: 64, 0
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Helpful Fairy
   rotate: false
-  xy: 48, 0
-  size: 16, 16
-  orig: 16, 16
+  xy: 97, 0
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
