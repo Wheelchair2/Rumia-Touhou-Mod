@@ -214,22 +214,22 @@ repeat: none
 TileSets/FantasyHex/Units/Rumia
   rotate: false
   xy: 0, 0
-  size: 32, 28
-  orig: 32, 28
+  size: 42, 38
+  orig: 42, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tiny Rumia
   rotate: false
   xy: 0, 0
-  size: 32, 28
-  orig: 32, 28
+  size: 42, 38
+  orig: 42, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Danmaku Rumia
   rotate: false
   xy: 0, 0
-  size: 32, 28
-  orig: 32, 28
+  size: 42, 38
+  orig: 42, 38
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Orb of Darkness
