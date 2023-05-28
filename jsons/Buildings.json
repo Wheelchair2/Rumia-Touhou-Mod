@@ -11,10 +11,9 @@
 		"requiredTech": "Drama and Poetry"
 	},
 	{
-		"name": "Monument for Rumia",
-		"replaces": "Monument",
+		"name": "Stones of the Dusk",
 		"uniqueTo": "Kurai Sekai",
-		"culture": 3,
+		"culture": 2,
 		"cost": 20,
 		"hurryCostModifier": 40,
 		"maintenance": 1
