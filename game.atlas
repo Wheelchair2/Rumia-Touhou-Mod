@@ -207,7 +207,7 @@ UnitIcons/Dark Ball
   index: -1
 
 game4.png
-size: 212,38
+size: 222,48
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
@@ -228,8 +228,8 @@ TileSets/FantasyHex/Units/Tiny Rumia
 TileSets/FantasyHex/Units/Danmaku Rumia
   rotate: false
   xy: 170, 0
-  size: 42, 38
-  orig: 42, 38
+  size: 52, 48
+  orig: 52, 48
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Orb of Darkness
