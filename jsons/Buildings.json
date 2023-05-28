@@ -17,6 +17,6 @@
 		"cost": 20,
 		"hurryCostModifier": 40,
 		"maintenance": 1
-		"uniques": ["Free [Rumia] appears"]
+		"uniques": ["Free [Rumia] appears", "Unsellable"]
 	}
 ]
