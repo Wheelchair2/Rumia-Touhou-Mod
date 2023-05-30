@@ -129,15 +129,14 @@
 	},
 	{
 		"name": "Modern Rumia",
+		"uniqueTo": "Kurai Sekai",
 		"unitType": "Civilian",
-		"uniques": [
-            "[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", "May Paradrop up to [10] tiles from inside friendly territory",
-            "Can build [Land] improvements on tiles",
-			"Unbuildable", "Uncapturable"],
+		"uniques": ["[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", "May Paradrop up to [10] tiles from inside friendly territory", "Can build [Land] improvements on tiles", "Unbuildable", "Uncapturable"],
 		"movement": 4
 	},
 	{
 		"name": "Artificial Infantry",
+		"uniqueTo": "Kurai Sekai",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 30,
@@ -149,11 +148,12 @@
 	},
 	{
 		"name": "Modern Artificial Infantry",
+		"uniqueTo": "Kurai Sekai",
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 60,
 		"cost": 200,
-		"requiredTech": "Electronics",
+		"requiredTech": "Plastics",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
 	},
