@@ -9,6 +9,19 @@
 		"isNationalWonder": true,
 		"uniques": ["[+25]% Great Person generation [in this city]","All newly-trained [non-air] units [in this city] receive the [Eased-Mind] promotion", "[+20]% Production when constructing [Land] units [in all cities]"],
 		"requiredTech": "Drama and Poetry"
+		"quote": "This statue is said to be so cute that you forget your problems just by admiring it."
+	},
+	{
+		"name": "Early Teaching Methods",
+		"replaces": "The Great Library"
+		"cost": 75,
+		"science": 3,
+		"culture": 2,
+		"greatPersonPoints": {"Great Scientist": 1},
+		"isWonder": true,
+		"requiredTech": "Writing",
+		"uniques": ["Free Technology", "Gain a free [Library] [in this city]"],
+		"quote": "Rumia had been blessed by Keine-san with wisdom for her journey in leading the likes of her."
 	},
 	{
 		"name": "Stones under the Dusk",
