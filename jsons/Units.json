@@ -124,8 +124,17 @@
 		"strength": 26,
 		"cost": 250,
 		"requiredTech": "Astronomy",
-		"uniques": ["Unbuildable", "Free [Rumia of the Past] appears <upon being defeated>"],
+		"uniques": ["Unbuildable", "Free [Modern Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
+	},
+	{
+		"name": "Modern Rumia",
+		"unitType": "Civilian",
+		"uniques": [
+            "[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", "May Paradrop up to [10] tiles from inside friendly territory",
+            "Can instantly construct a [Citadel] improvement <once>",
+			"Unbuildable", "Uncapturable"],
+		"movement": 4
 	},
 	{
 		"name": "Artificial Infantry",
