@@ -18,6 +18,13 @@ UnitIcons/Danmaku Rumia
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Stage Boss Rumia
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Orb of Darkness
   rotate: false
   xy: 200, 0
@@ -82,6 +89,13 @@ UnitPromotionIcons/Darkness Manipulation
   offset: 0, 0
   index: -1
 UnitIcons/Controlled Darkness
+  rotate: false
+  xy: 1100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dark Disturbance
   rotate: false
   xy: 1100, 0
   size: 100, 100
