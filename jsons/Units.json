@@ -125,7 +125,7 @@
 		"cost": 250,
 		"requiredTech": "Astronomy",
 		"uniques": ["Unbuildable", "Free [Modern Rumia] appears <upon being defeated>"],
-		"promotions": ["Darkness Manipulation"],
+		"promotions": ["Darkness Manipulation", "Maturing"],
 	},
 	{
 		"name": "Modern Rumia",
