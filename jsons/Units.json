@@ -127,4 +127,25 @@
 		"uniques": ["Unbuildable", "Free [Rumia of the Past] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
+	{
+		"name": "Artificial Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 30,
+		"cost": 125,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Modern Artificial Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
+	{
+		"name": "Modern Artificial Infantry",
+		"unitType": "Gunpowder",
+		"movement": 2,
+		"strength": 60,
+		"cost": 150,
+		"requiredTech": "Electronics",
+		"obsoleteTech": "Mobile Tactics",
+		"attackSound": "shot"
+	},
 ]
