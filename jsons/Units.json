@@ -152,7 +152,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 60,
-		"cost": 150,
+		"cost": 200,
 		"requiredTech": "Electronics",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
