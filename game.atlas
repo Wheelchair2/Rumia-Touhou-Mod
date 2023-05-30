@@ -219,6 +219,48 @@ UnitIcons/Dark Ball
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Rumia of the Past
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/EX Rumia
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Senseless EX Rumia
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Artificial Infantry
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Modern Artificial Infantry
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Early Teach8ng Methods
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 game4.png
 size: 222,48
