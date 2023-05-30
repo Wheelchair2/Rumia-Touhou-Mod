@@ -13,6 +13,7 @@
 	},
 	{
 		"name": "Early Teaching Methods",
+		"uniqueTo": "Kurai Sekai",
 		"replaces": "The Great Library"
 		"cost": 75,
 		"science": 3,
