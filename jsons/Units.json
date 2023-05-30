@@ -132,7 +132,7 @@
 		"unitType": "Civilian",
 		"uniques": [
             "[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", "May Paradrop up to [10] tiles from inside friendly territory",
-            "Can instantly construct a [Citadel] improvement <once>",
+            "Can build [Land] improvements on tiles",
 			"Unbuildable", "Uncapturable"],
 		"movement": 4
 	},
