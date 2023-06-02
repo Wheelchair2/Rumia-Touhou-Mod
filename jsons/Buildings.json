@@ -7,7 +7,7 @@
 		"culture": 1,
 		"faith": 5,
 		"isNationalWonder": true,
-		"uniques": ["[+25]% Great Person generation [in this city]","All newly-trained [non-air] units [in this city] receive the [Eased-Mind] promotion", "[+20]% Production when constructing [Land] units [in all cities]"],
+		"uniques": ["[+25]% Great Person generation [in this city]","All newly-trained [non-air] units [in this city] receive the [Eased-Mind] promotion", "[+40]% Production when constructing [Land] units [in all cities]"],
 		"requiredTech": "Drama and Poetry"
 		"quote": "This statue is said to be so cute that you forget your problems just by admiring it."
 	},
