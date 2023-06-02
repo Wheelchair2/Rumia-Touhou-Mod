@@ -102,7 +102,7 @@
 		"movement": 2,
 		"strength": 16,
 		"cost": 100,
-		"uniques": ["Unbuildable", "Free [Rumia of the Past] appears <upon being defeated>"],
+		"uniques": ["Unbuildable", "Cannot be purchased", "Free [Rumia of the Past] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Savoring"],
 	},
 	{
@@ -113,7 +113,7 @@
 		"strength": 24,
 		"cost": 150,
 		"requiredTech": "Education",
-		"uniques": ["Unbuildable", "Free [Rumia of the Past] appears <upon being defeated>"],
+		"uniques": ["Unbuildable", "Cannot be purchased", "Free [Rumia of the Past] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -124,14 +124,14 @@
 		"strength": 26,
 		"cost": 250,
 		"requiredTech": "Astronomy",
-		"uniques": ["Unbuildable", "Free [Modern Rumia] appears <upon being defeated>"],
+		"uniques": ["Unbuildable", "Cannot be purchased", "Free [Modern Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Maturing"],
 	},
 	{
 		"name": "Modern Rumia",
 		"uniqueTo": "Kurai Sekai",
 		"unitType": "Civilian",
-		"uniques": ["[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", "May Paradrop up to [10] tiles from inside friendly territory", "Can build [Land] improvements on tiles", "Unbuildable", "Uncapturable"],
+		"uniques": ["[+20]% Strength bonus for [{Military} {Land}] units within [2] tiles", "May Paradrop up to [10] tiles from inside friendly territory", "Can build [Land] improvements on tiles", "Unbuildable", "Cannot be purchased", "Uncapturable"],
 		"movement": 4
 	},
 	{
