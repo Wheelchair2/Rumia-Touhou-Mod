@@ -6,7 +6,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["Founds a new city <once>", "Can build [Land] improvements on tiles", "Ignores terrain cost", "Unbuildable"],
+		"uniques": ["Founds a new city <once>", "Can build [Land] improvements on tiles", "Ignores terrain cost", "Unbuildable", "Cannot be purchased"],
 	},
 	{
 		"name": "Rumia",
@@ -15,7 +15,7 @@
 		"movement": 2,
 		"strength": 11,
 		"cost": 120,
-		"uniques": ["Can transform to [Orb of Darkness]", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Orb of Darkness]", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 		"upgradesTo": "Danmaku Rumia",
 	},
@@ -26,7 +26,7 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 120,
-		"uniques": ["Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -36,7 +36,7 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 120,
-		"uniques": ["Can transform to [Dark Ball]", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Dark Ball]", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 		"upgradesTo": "Danmaku Rumia",
 	},
@@ -47,7 +47,7 @@
 		"movement": 3,
 		"strength": 11,
 		"cost": 120,
-		"uniques": ["Can transform to [Tiny Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Tiny Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -57,7 +57,7 @@
 		"movement": 3,
 		"strength": 20,
 		"cost": 250,
-		"uniques": ["Can transform to [Danmaku Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Danmaku Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -69,7 +69,7 @@
 		"rangedStrength": 7,
 		"cost": 250,
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Danmaku"]
 		"upgradesTo": "Stage Boss Rumia",
 	},
@@ -80,7 +80,7 @@
 		"movement": 3,
 		"strength": 22,
 		"cost": 450,
-		"uniques": ["[+100]% Strength <vs cities> <when defending>", "Can transform to [Stage Boss Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Free [Rumia of the Past] appears <upon being defeated>"],
+		"uniques": ["[+100]% Strength <vs cities> <when defending>", "Can transform to [Stage Boss Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Rumia of the Past] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -92,7 +92,7 @@
 		"rangedStrength": 8,
 		"cost": 450,
 		"requiredTech": "Engineering",
-		"uniques": ["[+100]% Strength <vs cities> <when defending>", "Can transform to [Dark Disturbance]", "Must set up before ranged attack", "Unbuildable", "Free [Rumia of the Past] appears <upon being defeated>"],
+		"uniques": ["[+100]% Strength <vs cities> <when defending>", "Can transform to [Dark Disturbance]", "Must set up before ranged attack", "Unbuildable", "Cannot be purchased", "Free [Rumia of the Past] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Danmaku"]
 	},
 	{
@@ -110,7 +110,7 @@
 		"uniqueTo": "Kurai Sekai",
 		"unitType": "Dark Youkai",
 		"movement": 2,
-		"strength": 23,
+		"strength": 24,
 		"cost": 150,
 		"requiredTech": "Education",
 		"uniques": ["Unbuildable", "Free [Rumia of the Past] appears <upon being defeated>"],
