@@ -26,7 +26,7 @@
 	{
 		"name": "Maturing",
 		"prerequisites": ["Levitation", "Savoring"],
-		"uniques": ["[+20]% Strength", "[-1] Sight", "[+10]% XP gained from combat"],
+		"uniques": ["[+30]% Strength", "[-1] Sight", "[+10]% XP gained from combat"],
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
