@@ -16,7 +16,7 @@
 		"strength": 13,
 		"cost": 120,
 		"uniques": ["Limited to [1] per Civilization", "Can transform to [Orb of Darkness]", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
-		"promotions": ["Darkness Manipulation"],
+		"promotions": ["Darkness Manipulation", "Cover I"],
 		"upgradesTo": "Danmaku Rumia",
 	},
 	{
