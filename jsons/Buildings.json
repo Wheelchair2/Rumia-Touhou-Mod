@@ -101,7 +101,7 @@
 		"culture": 2,
 		"isWonder": true,
 		"cost": 195,
-		"unique": ["[+5 Happiness]"]
+		"uniques": ["[+5 Happiness]"]
 		"requiredTech": "Engineering",
 		"quote": "After finishing to read the One-Hundred Poems for Rumia-chan, the monk looked up to Rumia, expecting a response. Then, she replied, 'Is that so~'"
 	},
