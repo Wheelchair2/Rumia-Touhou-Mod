@@ -36,7 +36,7 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 56,
-		"uniques": ["Requires a [Fumo Manufactory] in all cities", "Can transform to [Dark Ball]", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Requires a [Fumo Manufactory] in all cities", "Can transform to [Dark Ball]", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 		"upgradesTo": "Danmaku Rumia",
 	},
