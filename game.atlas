@@ -1,103 +1,103 @@
 game3.png
-size: 222,48
+size: 738,88
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Units/Artificial Infantry
+TileSets/FantasyHex/Units/Rumia
   rotate: false
   xy: 0, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Controlled Darkness
+TileSets/FantasyHex/Units/Danmaku Rumia
   rotate: false
   xy: 32, 0
   size: 52, 48
   orig: 52, 48
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Danmaku Rumia
+TileSets/FantasyHex/Units/Modern Rumia
   rotate: false
   xy: 84, 0
   size: 52, 48
   orig: 52, 48
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Dark Ball
+TileSets/FantasyHex/Units/Rumia of the Past
   rotate: false
   xy: 136, 0
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Dark Disturbance
-  rotate: false
-  xy: 168, 0
-  size: 52, 48
-  orig: 52, 48
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/EX Rumia
-  rotate: false
-  xy: 220, 0
-  size: 72, 68
-  orig: 72, 68
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Fumo Rumia
-  rotate: false
-  xy: 292, 0
   size: 92, 88
   orig: 92, 88
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Helpful Fairy
+TileSets/FantasyHex/Units/Fumo Rumia
   rotate: false
-  xy: 384, 0
+  xy: 228, 0
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Orb of Darkness
+  rotate: false
+  xy: 320, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dark Ball
+  rotate: false
+  xy: 352, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Artificial Infantry
   rotate: false
+  xy: 384, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Artificial Infantry
+  rotate: false
   xy: 416, 0
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Modern Rumia
+TileSets/FantasyHex/Units/EX Rumia
   rotate: false
   xy: 448, 0
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Helpful Fairy
+  rotate: false
+  xy: 520, 0
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dark Disturbance
+  rotate: false
+  xy: 552, 0
   size: 52, 48
   orig: 52, 48
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Orb of Darkness
-  rotate: false
-  xy: 500, 0
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rumia
-  rotate: false
-  xy: 532, 0
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Rumia of the Past
-  rotate: false
-  xy: 564, 0
-  size: 92, 88
-  orig: 92, 88
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Stage Boss Rumia
   rotate: false
-  xy: 656, 0
+  xy: 604, 0
   size: 82, 78
   orig: 82, 78
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Controlled Darkness
+  rotate: false
+  xy: 686, 0
+  size: 52, 48
+  orig: 52, 48
   offset: 0, 0
   index: -1
