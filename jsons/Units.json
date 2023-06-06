@@ -72,6 +72,7 @@
 		"uniques": ["Limited to [1] per Civilization", "Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable", "Cannot be purchased", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Danmaku"]
 		"upgradesTo": "Stage Boss Rumia",
+		"attackSound": "danmaku"
 	},
 	{
 		"name": "Dark Disturbance",
@@ -94,6 +95,7 @@
 		"requiredTech": "Engineering",
 		"uniques": ["Limited to [1] per Civilization", "[+100]% Strength <vs cities> <when defending>", "Can transform to [Dark Disturbance]", "Must set up before ranged attack", "Unbuildable", "Cannot be purchased", "Free [Rumia of the Past] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Danmaku"]
+		"attackSound": "danmaku"
 	},
 	{
 		"name": "Rumia of the Past",
