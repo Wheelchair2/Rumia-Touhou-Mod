@@ -90,7 +90,7 @@
 		"unitType": "Dark Youkai",
 		"movement": 2,
 		"strength": 17,
-		"rangedStrength": 12,
+		"rangedStrength": 11,
 		"cost": 450,
 		"requiredTech": "Engineering",
 		"uniques": ["Limited to [1] per Civilization", "[+100]% Strength <vs cities> <when defending>", "Can transform to [Dark Disturbance]", "Must set up before ranged attack", "Unbuildable", "Cannot be purchased", "Free [Rumia of the Past] appears <upon being defeated>"],
