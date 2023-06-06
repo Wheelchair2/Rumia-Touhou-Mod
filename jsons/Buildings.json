@@ -3,26 +3,26 @@
 		"name": "Cute Statue of Rumia",
 		"replaces": "National Epic",
 		"uniqueTo": "Kurai Sekai",
-		"cost": 125,
+		"cost": 170,
 		"culture": 1,
 		"faith": 5,
 		"isNationalWonder": true,
 		"uniques": ["[+25]% Great Person generation [in this city]","All newly-trained [non-air] units [in this city] receive the [Eased-Mind] promotion", "[+40]% Production when constructing [Land] units [in all cities]"],
 		"requiredTech": "Drama and Poetry"
 		"quote": "This statue is said to be so cute that you forget your problems just by admiring it."
-	},
+	}
 	{
-		"name": "Early Teaching Methods",
+		"name": "Youkai Teaching Methods",
 		"uniqueTo": "Kurai Sekai",
 		"replaces": "The Great Library"
-		"cost": 75,
+		"cost": 150,
 		"science": 3,
 		"culture": 2,
 		"greatPersonPoints": {"Great Scientist": 1},
 		"isWonder": true,
 		"requiredTech": "Writing",
 		"uniques": ["Free Technology", "Gain a free [Library] [in this city]"],
-		"quote": "Rumia had been blessed by Keine-san with wisdom for her journey in leading the likes of her."
+		"quote": "You will be fed to Rumia as a punishment upon not meeting the youkai standards. Legends says she feeds you with love and affection instead."
 	},
 	{
 		"name": "Stones under the Dusk",
@@ -32,5 +32,77 @@
 		"hurryCostModifier": 40,
 		"maintenance": 1
 		"uniques": ["Free [Rumia] appears", "Unsellable"]
-	}
+	},
+	{
+		"name": "Dark Moon Sanctum",
+		"uniqueTo": "Kurai Sekai",
+		"faith": 5,
+		"culture": 1,
+		"isWonder": true,
+		"cost": 150,
+		"uniques": ["[+8]% Strength <for [All] units> <vs cities> <when attacking>"],
+		"requiredTech": "Calendar",
+		"quote": "It is said that youkais becomes stronger, or even change forms upon the sight of a full moon."
+	},
+	{
+		"name": "Youkai Training Grounds",
+		"replaces": "Barracks",
+		"uniqueTo": "Kurai Sekai",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "All newly-trained [non-air] units [in this city] receive the [Instinct Restraint] promotion" ],
+		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Fumo Manufactory",
+		"uniqueTo": "Kurai Sekai",
+		"production": 2,
+		"cost": 80,
+		"hurryCostModifier": 25,
+		"maintenance": 2,
+		"requiredTech": "Construction"
+	},
+	{
+		"name": "Youkai Training School",
+		"replaces": "Armory",
+		"uniqueTo": "Kurai Sekai",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "All newly-trained [non-air] units [in this city] receive the [Instinct Mastery] promotion"],
+		"requiredTech": "Steel"
+	},
+	{
+		"name": "Meat Market",
+		"replaces": "Market",
+		"uniqueTo": "Kurai Sekai",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Earn [30]% of the damage done to [Land] units as [Gold]"],
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Temple of the Full Moon",
+		"replaces": "Temple",
+		"uniqueTo": "Kurai Sekai",
+		"faith": 4,
+		"requiredBuilding": "Shrine",
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"requiredTech": "Philosophy",
+		"uniques": ["Hidden when religion is disabled", "Destroyed when the city is captured"]
+	},
+	{
+		"name": "100 Poems for Rumia-chan",
+		"uniqueTo": "Kurai Sekai",
+		"faith": 10,
+		"culture": 2,
+		"isWonder": true,
+		"cost": 195,
+		"unique": ["[+5 Happiness]"]
+		"requiredTech": "Engineering",
+		"quote": "After finishing to read the One-Hundred Poems for Rumia-chan, the monk looked up to Rumia, expecting a response. Then, she replied, 'Is that so~'"
+	},
 ]
