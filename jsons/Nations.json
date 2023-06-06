@@ -17,7 +17,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"uniqueName": "Man-Eating Youkai Race",
-		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted", "[-10]% Production when constructing [{Military} {Land}] units [in all cities]", "[20]% XP gained from combat <for [Land] units>", "[+2 Science] [in capital]", "Earn [2]% of the damage done to [Land] units as [Science]", "Earn [20]% of the damage done to [Land] units as [Gold]"],
+		"uniques": ["[Land] units gain the [Man-Eating Youkai] promotion", "Starts with [Honor] adopted", "[-10]% Production when constructing [{Military} {Land}] units [in all cities]", "[20]% XP gained from combat <for [Land] units>", "[+2 Science] [in capital]", "Earn [5]% of the damage done to [Land] units as [Science]", "Earn [20]% of the damage done to [Land] units as [Gold]"],
 		"cities": ["Hōreisou"]
 	},
 ]
