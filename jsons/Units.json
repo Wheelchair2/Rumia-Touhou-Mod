@@ -15,7 +15,7 @@
 		"movement": 2,
 		"strength": 13,
 		"cost": 120,
-		"uniques": ["Limited to [1] per Civilization", "Can transform to [Orb of Darkness]", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Limited to [1] per Civilization", "Can transform to [Orb of Darkness]", "Unbuildable", "Cannot be purchased", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Cover I"],
 		"upgradesTo": "Danmaku Rumia",
 	},
@@ -26,7 +26,7 @@
 		"movement": 3,
 		"strength": 15,
 		"cost": 120,
-		"uniques": ["Limited to [1] per Civilization", "Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Limited to [1] per Civilization", "Can transform to [Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -36,9 +36,9 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 56,
-		"uniques": ["Requires a [Fumo Manufactory] in all cities", "Can transform to [Dark Ball]", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Requires a [Fumo Manufactory] in all cities", "Can transform to [Dark Ball]", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
-		"upgradesTo": "Danmaku Rumia",
+		"upgradesTo": "Rumia",
 	},
 	{
 		"name": "Dark Ball",
@@ -47,7 +47,7 @@
 		"movement": 3,
 		"strength": 11,
 		"cost": 120,
-		"uniques": ["Can transform to [Tiny Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Can transform to [Tiny Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -57,7 +57,7 @@
 		"movement": 3,
 		"strength": 20,
 		"cost": 250,
-		"uniques": ["Limited to [1] per Civilization", "Can transform to [Danmaku Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Limited to [1] per Civilization", "Can transform to [Danmaku Rumia]", "No Sight", "Invisible to non-adjacent units", "Cannot attack", "May enter foreign tiles without open borders", "Unbuildable", "Cannot be purchased", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 	},
 	{
@@ -69,7 +69,7 @@
 		"rangedStrength": 9,
 		"cost": 250,
 		"requiredTech": "Drama and Poetry",
-		"uniques": ["Limited to [1] per Civilization", "Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
+		"uniques": ["Limited to [1] per Civilization", "Can transform to [Controlled Darkness]", "Must set up before ranged attack", "Unbuildable", "Cannot be purchased", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation", "Danmaku"]
 		"upgradesTo": "Stage Boss Rumia",
 	},
