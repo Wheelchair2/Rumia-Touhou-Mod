@@ -1,7 +1,7 @@
 [	
 	{
 		"name": "Man-Eating Youkai",
-		"uniques": ["Heals [20] damage if it kills a unit", "Heal this unit by [30] HP <upon being promoted>", "Can only heal by pillaging"]
+		"uniques": ["Heals [20] damage if it kills a unit", "Heal this unit by [18] HP <upon being promoted>", "Can only heal by pillaging"]
 	},
 	{
 		"name": "Instinct Restraint",
