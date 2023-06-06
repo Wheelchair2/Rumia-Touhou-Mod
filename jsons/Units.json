@@ -36,7 +36,7 @@
 		"movement": 2,
 		"strength": 7,
 		"cost": 56,
-		"uniques": ["Only available <upon constructing [Fumo Manufactory] [in all cities]>", "Can transform to [Dark Ball]", "Free [Fumo Rumia] appears <upon being defeated>"],
+		"uniques": ["Only available <in cities with a [Fumo Manufactory]>", "Can transform to [Dark Ball]", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 		"upgradesTo": "Rumia",
 	},
