@@ -140,7 +140,7 @@
 		"uniqueTo": "Kurai Sekai",
 		"unitType": "Gunpowder",
 		"movement": 2,
-		"strength": 30,
+		"strength": 26,
 		"cost": 185,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Modern Artificial Infantry",
@@ -153,7 +153,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 60,
-		"cost": 200,
+		"cost": 320,
 		"requiredTech": "Plastics",
 		"obsoleteTech": "Mobile Tactics",
 		"attackSound": "shot"
