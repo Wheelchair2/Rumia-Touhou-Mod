@@ -16,7 +16,7 @@
 		"strength": 13,
 		"cost": 120,
 		"uniques": ["Limited to [1] per Civilization", "Can transform to [Orb of Darkness]", "Unbuildable", "Cannot be purchased", "Free [Fumo Rumia] appears <upon being defeated>"],
-		"promotions": ["Darkness Manipulation", "Cover I"],
+		"promotions": ["Darkness Manipulation"],
 		"upgradesTo": "Danmaku Rumia",
 	},
 	{
