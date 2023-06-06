@@ -60,6 +60,7 @@
 		"cost": 80,
 		"hurryCostModifier": 25,
 		"maintenance": 2,
+		"uniques": ["[+100]% Production when constructing [Fumo Rumia] units [in this city]"]
 		"requiredTech": "Construction"
 	},
 	{
