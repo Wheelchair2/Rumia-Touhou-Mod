@@ -35,7 +35,7 @@
 		"unitType": "Dark Youkai",
 		"movement": 2,
 		"strength": 7,
-		"cost": 120,
+		"cost": 56,
 		"uniques": ["Can transform to [Dark Ball]", "Unbuildable", "Cannot be purchased", "Free [Tiny Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 		"upgradesTo": "Danmaku Rumia",
