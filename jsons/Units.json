@@ -35,7 +35,7 @@
 		"unitType": "Dark Youkai",
 		"movement": 2,
 		"strength": 7,
-		"cost": 56,
+		"cost": 75,
 		"uniques": ["Only available <in cities with a [Fumo Manufactory]>", "Can transform to [Dark Ball]", "Free [Fumo Rumia] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
 		"upgradesTo": "Rumia",
