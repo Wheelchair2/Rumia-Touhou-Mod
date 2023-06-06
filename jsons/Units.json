@@ -141,7 +141,7 @@
 		"unitType": "Gunpowder",
 		"movement": 2,
 		"strength": 30,
-		"cost": 125,
+		"cost": 185,
 		"requiredTech": "Rifling",
 		"upgradesTo": "Modern Artificial Infantry",
 		"obsoleteTech": "Mobile Tactics",
