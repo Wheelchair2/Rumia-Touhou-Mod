@@ -116,6 +116,7 @@
 		"requiredTech": "Education",
 		"uniques": ["Limited to [1] per Civilization", "Unbuildable", "Cannot be purchased", "Free [Rumia of the Past] appears <upon being defeated>"],
 		"promotions": ["Darkness Manipulation"],
+		"upgradesTo": "Senseless EX Rumia",
 	},
 	{
 		"name": "Senseless EX Rumia",
