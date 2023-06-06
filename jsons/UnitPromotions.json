@@ -28,7 +28,7 @@
 	{
 		"name": "Savoring",
 		"prerequisites": ["Darkness Manipulation"],
-		"uniques": ["Heals [80] damage if it kills a unit"],
+		"uniques": ["Heals [20] damage if it kills a unit"],
 		"unitTypes": ["Dark Youkai"],
 	},
 	{
